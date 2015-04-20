@@ -43,7 +43,7 @@
 <date>DIJ</date>
 
 <name>[COLOR aqua]MMA[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/mma/mma.xml</link>
+<link>plugin://plugin.video.genesis</link>
 <thumbnail>http://s27.postimg.org/jev1e2yir/mma_button.png</thumbnail>
 <date>DIJ</date>
 
